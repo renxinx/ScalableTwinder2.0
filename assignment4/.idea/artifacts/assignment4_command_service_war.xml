@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="assignment4-command-service:war">
+    <output-path>$PROJECT_DIR$/assignment4-command-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>assignment4-command-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="assignment4-command-service.war">
+      <element id="artifact" artifact-name="assignment4-command-service:war exploded" />
+    </root>
+  </artifact>
+</component>

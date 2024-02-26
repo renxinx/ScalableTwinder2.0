@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="assignment4-query-service:war">
+    <output-path>$PROJECT_DIR$/assignment4-query-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>assignment4-query-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="assignment4-query-service.war">
+      <element id="artifact" artifact-name="assignment4-query-service:war exploded" />
+    </root>
+  </artifact>
+</component>
