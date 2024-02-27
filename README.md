@@ -1,5 +1,5 @@
 # ScalableTwinder-Group
-This repository includes Assignment 4, which is the final project for CS6650 Building Scalable Distributed Systems.
+This repository includes final project for CS6650 Building Scalable Distributed Systems.
 
 <img width="1238" alt="image" src="https://github.com/renxinx/ScalableTwinder-Group/assets/90580890/6de2417c-4ebe-4dd6-914b-7976416c5ea3">
 <img width="916" alt="image" src="https://github.com/renxinx/ScalableTwinder-Group/assets/90580890/07d79be3-c892-48b9-8cdb-36df48e48c7d">
