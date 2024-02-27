@@ -1,4 +1,4 @@
-# ScalableTwinder-Group
+# ScalableTwinder2.0
 This repository includes final project for CS6650 Building Scalable Distributed Systems.
 
 <img width="1238" alt="image" src="https://github.com/renxinx/ScalableTwinder-Group/assets/90580890/6de2417c-4ebe-4dd6-914b-7976416c5ea3">
